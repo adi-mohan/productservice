@@ -1,2 +1,2 @@
 # productservice
-Product Service API
+Product Service API for ecommerce setup
